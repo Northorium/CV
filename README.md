@@ -1,6 +1,6 @@
 # Curriculum Vitae of Kim Andre Kristensen
 
-This project is a personal curriculum vitae (CV) website for Kim Andre Kristensen, a Junior Fullstack Developer. The website provides an overview of Kim's professional background, education, work experience, and skills.
+This project is a personal curriculum vitae (CV) website for Kim Andre Kristensen, a Junior Fullstack Developer. The website provides an overview of Kim's professional background, education, work experience, and skills. https://roadmap.sh/projects/single-page-cv
 
 ## Table of Contents
 
